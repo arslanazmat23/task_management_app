@@ -36,7 +36,7 @@ class Task {
           'time': '9:00 AM',
           'title': 'Create a Video',
           'slot': '9:00 AM - 10:00 AM',
-          'tlColor': kBlueDark,
+          'tlColor': kRedDark,
           'bgColor': kRedLight,
         },
         {
@@ -44,20 +44,20 @@ class Task {
           'title': 'Wating a Video',
           'slot': '10:00 AM - 11:00 AM',
           'tlColor': kBlueDark,
-          'bgColor': kRedLight,
+          'bgColor': kBlueLight,
         },
         {
           'time': '11:00 AM',
           'title': '',
           'slot': '',
-          'tlColor': kBlueDark,
-          'bgColor': kRedLight,
+          'tlColor': kYellowDark,
+          'bgColor': kYellowLight,
         },
         {
           'time': '12:00 PM',
           'title': 'Go to the Gym',
           'slot': '12:00 PM - 1:00 PM',
-          'tlColor': kBlueDark,
+          'tlColor': kRedDark,
           'bgColor': kRedLight,
         },
         {
