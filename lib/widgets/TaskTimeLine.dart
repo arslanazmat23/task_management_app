@@ -54,23 +54,23 @@ class TaskTimeLine extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Padding(padding: const EdgeInsets.all(8.0),
+            Padding(padding: const EdgeInsets.only(left: 20, top: 25),
             child: Text(
                 title,
                 style: TextStyle(
-                  color: Colors.grey.shade900,
-                  fontSize: 18,
+                  color: Colors.black87,
+                  fontSize: 20,
                   fontWeight: FontWeight.w500,
                 ),
 
             ),
             ),
-            Padding(padding: const EdgeInsets.all(8.0),
+            Padding(padding: const EdgeInsets.only(left: 20, top: 5),
             child: Text(
               slot,
               style: TextStyle(
-                color: Colors.grey.shade900,
-                fontSize: 18,
+                color: Colors.black54,
+                fontSize: 15,
                 fontWeight: FontWeight.w500,)
             ),)
           ],
