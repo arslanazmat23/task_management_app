@@ -1,16 +1,34 @@
 # task_management_app
 
-A new Flutter project.
+Figma Design: https://www.figma.com/file/tnqpVK7qKlbUyGAL8kVN5K/Task-Management-App---Flutter-Project-6A?node-id=0%3A1&t=LYnulNaowujYUpKN-1
 
-## Getting Started
+Task Management App in Flutter
 
-This project is a starting point for a Flutter application.
+This is a Task Management App built using the Flutter framework. It allows you to manage your tasks and keep track of your progress.
 
-A few resources to get you started if this is your first Flutter project:
+Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Create, edit, and delete tasks
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Set due dates and priorities for tasks
+
+Mark tasks as completed
+
+View tasks by categories
+
+How to run the app
+
+Clone this repository
+
+Open the project in Android Studio or VS Code
+
+Run flutter pub get in the terminal
+
+Run the app using flutter run or using the Run button in your IDE
+
+Contributions
+
+Contributions are welcome! If you find a bug or want to add a new feature, feel free to open an issue or submit a pull request.
+
+License
+This project is licensed under the MIT License.
